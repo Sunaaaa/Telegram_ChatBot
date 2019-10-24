@@ -307,9 +307,13 @@ setWebhook()
 
       ![1571891281581](https://user-images.githubusercontent.com/39547788/67467904-96585c80-f684-11e9-92cf-f58e1cf06a16.png)
 
+      <br>
+
     - 실행화면
 
       ![1571891444610](https://user-images.githubusercontent.com/39547788/67467905-96585c80-f684-11e9-970c-ef21945b8d53.png)
+
+      <br>
 
 
 
@@ -318,6 +322,8 @@ setWebhook()
 - 실행화면
 
   ![1571895096732](https://user-images.githubusercontent.com/39547788/67467907-96f0f300-f684-11e9-8c3e-f06577c4d511.png)
+
+  <br>
 
 
 
@@ -328,6 +334,8 @@ PythonAnyWhere
 - 무료로 빠르게 할 수 있다. 
 
 ![1571897247462](https://user-images.githubusercontent.com/39547788/67467908-96f0f300-f684-11e9-8a99-0d4c12d643bb.png)
+
+<br>
 
 
 
@@ -343,9 +351,13 @@ PythonAnyWhere
 
 
 
+
+
 - ssss
 
   ![1571897386269](https://user-images.githubusercontent.com/39547788/67467912-97898980-f684-11e9-831a-675359a2bf71.png)
+
+  <br>
 
 
 
@@ -353,11 +365,15 @@ PythonAnyWhere
 
   ![1571897458757](https://user-images.githubusercontent.com/39547788/67467913-97898980-f684-11e9-8f1f-81e92581a337.png)
 
+  <br>
+
 
 
 - skjds
 
   ![1571897479786](https://user-images.githubusercontent.com/39547788/67467918-98222000-f684-11e9-9db0-1b8b90169987.png)
+
+  <br>
 
 
 
@@ -367,19 +383,27 @@ PythonAnyWhere
 
     ![1571897525207](https://user-images.githubusercontent.com/39547788/67467919-98222000-f684-11e9-8787-df659d6213ee.png)
 
+    <br>
+
   - Bash를 열어 설치
 
     ![1571897597101](https://user-images.githubusercontent.com/39547788/67467920-98bab680-f684-11e9-94cc-4f1d50ad7a87.png)
 
+    <br>
+
     - 설치 완료
 
       ![1571897630166](https://user-images.githubusercontent.com/39547788/67467922-98bab680-f684-11e9-9275-5560c408d682.png)
+
+      <br>
 
 - 환경 설정하기
 
   - .env 파일 생성하기
 
     ![1571897875686](https://user-images.githubusercontent.com/39547788/67467924-98bab680-f684-11e9-9879-7fd840f567e1.png)
+
+    <br>
 
   - .env 파일 작성하기
 
@@ -389,6 +413,8 @@ PythonAnyWhere
     ```
 
     ![1571897825967](https://user-images.githubusercontent.com/39547788/67467923-98bab680-f684-11e9-8a60-72e3d1b708b7.png)
+
+    <br>
 
 - webhook을 변경한다. 
 
@@ -418,9 +444,13 @@ PythonAnyWhere
 
     ![1571898981555](https://user-images.githubusercontent.com/39547788/67467935-99ebe380-f684-11e9-87a9-5f6edf819936.png)
 
+    <br>
+
   - 신이 나를 만들 때
 
     ![1571900747156](https://user-images.githubusercontent.com/39547788/67467937-9a847a00-f684-11e9-8d71-330e586de8a0.png)
+
+    <br>
 
 
 
