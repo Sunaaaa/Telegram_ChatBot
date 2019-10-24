@@ -2,15 +2,15 @@
 
 - 챗봇 시작하기
 
-  ![1571877409982](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571877409982.png)
+  ![1571877409982](https://user-images.githubusercontent.com/39547788/67467938-9a847a00-f684-11e9-99ca-781720c5e77c.png)
 
 - 새로운 봇 만들기
 
-  ![1571877555299](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571877555299.png)
+  ![1571877555299](https://user-images.githubusercontent.com/39547788/67467872-92c4d580-f684-11e9-920e-34b3b8bac037.png)
 
 - 봇 이름 설정 & 인증키
 
-  ![1571877577486](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571877577486.png)
+  ![1571877577486](https://user-images.githubusercontent.com/39547788/67467875-92c4d580-f684-11e9-9ded-9ad5d0dd3899.png)
 
 - 요청 URL
 
@@ -20,7 +20,7 @@
 
 - 나의 봇 시작
 
-  ![1571877988105](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571877988105.png)
+  ![1571877988105](https://user-images.githubusercontent.com/39547788/67467877-92c4d580-f684-11e9-9b4a-05eefd7dd0c8.png)
 
 
 
@@ -34,7 +34,7 @@
 
   - 결과화면
 
-    ![1571878285426](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571878285426.png)
+    ![1571878285426](https://user-images.githubusercontent.com/39547788/67467879-935d6c00-f684-11e9-9ea5-f398ce085834.png)
 
 
 
@@ -52,7 +52,7 @@
 
   - 결과화면
 
-    ![1571878370343](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571878370343.png)
+    ![1571878370343](https://user-images.githubusercontent.com/39547788/67467880-935d6c00-f684-11e9-8ac6-258d2f9b725d.png)
 
 
 
@@ -74,11 +74,11 @@
 
   - 실행화면
 
-    ![1571879347388](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571879347388.png)
+    ![1571879347388](https://user-images.githubusercontent.com/39547788/67467882-935d6c00-f684-11e9-85e9-e676fdc9c333.png)
 
   - 챗봇이 보낸 메시지 받기
 
-    ![1571879373154](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571879373154.png)
+    ![1571879373154](https://user-images.githubusercontent.com/39547788/67467883-93f60280-f684-11e9-9e22-74ee674c7e08.png)
 
 <br>
 
@@ -105,7 +105,7 @@
 
 - 실행화면
 
-  ![1571879872234](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571879872234.png)
+  ![1571879872234](https://user-images.githubusercontent.com/39547788/67467886-93f60280-f684-11e9-8231-3c3c1be15ed7.png)
 
 
 
@@ -121,11 +121,11 @@
     $pip install python-decouple
     ```
 
-    ![1571880283888](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571880283888.png)
+    ![1571880283888](https://user-images.githubusercontent.com/39547788/67467887-93f60280-f684-11e9-9fa4-e31713e19d4c.png)
 
     - 설치 확인
 
-      ![1571880311320](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571880311320.png)
+      ![1571880311320](https://user-images.githubusercontent.com/39547788/67467889-93f60280-f684-11e9-9937-9b3883095a43.png)
 
   
 
@@ -141,7 +141,7 @@
 
       - 여기에 쓰기 ( `i` )
 
-        ![1571880507028](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571880507028.png)
+        ![1571880507028](https://user-images.githubusercontent.com/39547788/67467890-948e9900-f684-11e9-84c7-108de7ce59f1.png)
 
       - ESC 키를 눌러 수정모드 종료
 
@@ -171,35 +171,43 @@
 
       - 실행화면
 
-        ![1571881815513](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571881815513.png)
+        ![1571881815513](https://user-images.githubusercontent.com/39547788/67467894-95272f80-f684-11e9-8292-ec45e331f658.png)
 
     - 실행화면
 
-      ![1571881963203](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571881963203.png)
+      ![1571881963203](https://user-images.githubusercontent.com/39547788/67467895-95272f80-f684-11e9-9935-58fec4544a1e.png)
 
 - vi .gitignore
 
   - env 파일은 무시한다.
 
-    ![1571880769920](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571880769920.png)
+    ![1571880769920](https://user-images.githubusercontent.com/39547788/67467891-948e9900-f684-11e9-82cf-16ef882450a5.png)
 
 
 
 
+
+
+
+
+
+
+
+------
 
 - app.py에 send_message.py를 합치기
 
   - 실행화면
 
-    ![1571883927281](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571883927281.png)
+    ![1571883927281](https://user-images.githubusercontent.com/39547788/67467898-95bfc600-f684-11e9-8da5-9c5043c040fd.png)
 
 - 실행화면
 
-  ![1571883907259](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571883907259.png)
+  ![1571883907259](https://user-images.githubusercontent.com/39547788/67467897-95272f80-f684-11e9-9752-d27fb1ab56f2.png)
 
 - 실행화면
 
-  ![1571883943034](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571883943034.png)
+  ![1571883943034](https://user-images.githubusercontent.com/39547788/67467899-95bfc600-f684-11e9-993c-ad88f6089d0c.png)
 
 
 
@@ -235,11 +243,11 @@ Telegram 서버가 사용자로부터 Message를 받으면 나의 Flask 서버�
 
 - cmd 창에서 `ngrok http 5000`명령어로 서버를 열어준다.
 
-  ![1571884917082](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571884917082.png)
+  ![1571884917082](https://user-images.githubusercontent.com/39547788/67467900-95bfc600-f684-11e9-92dc-5f4e81a13eeb.png)
 
 - 결과화면
 
-  ![1571884894630](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571884894630.png)
+  ![1571884894630](https://user-images.githubusercontent.com/39547788/67467901-95bfc600-f684-11e9-9af7-8792fc0efe46.png)
 
 
 
@@ -263,7 +271,7 @@ setWebhook()
 
   - 실행화면
 
-    ![1571890236378](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571890236378.png)
+    ![1571890236378](https://user-images.githubusercontent.com/39547788/67467903-96585c80-f684-11e9-8517-1ec659ef9678.png)
 
 
 
@@ -297,11 +305,11 @@ setWebhook()
 
     - 실행화면
 
-      ![1571891281581](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571891281581.png)
+      ![1571891281581](https://user-images.githubusercontent.com/39547788/67467904-96585c80-f684-11e9-92cf-f58e1cf06a16.png)
 
     - 실행화면
 
-      ![1571891444610](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571891444610.png)
+      ![1571891444610](https://user-images.githubusercontent.com/39547788/67467905-96585c80-f684-11e9-970c-ef21945b8d53.png)
 
 
 
@@ -309,7 +317,7 @@ setWebhook()
 
 - 실행화면
 
-  ![1571895096732](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571895096732.png)
+  ![1571895096732](https://user-images.githubusercontent.com/39547788/67467907-96f0f300-f684-11e9-8c3e-f06577c4d511.png)
 
 
 
@@ -319,7 +327,7 @@ PythonAnyWhere
 
 - 무료로 빠르게 할 수 있다. 
 
-![1571897247462](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571897247462.png)
+![1571897247462](https://user-images.githubusercontent.com/39547788/67467908-96f0f300-f684-11e9-8a99-0d4c12d643bb.png)
 
 
 
@@ -329,7 +337,7 @@ PythonAnyWhere
 
   
 
-![1571897347563](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571897347563.png)
+![1571897347563](https://user-images.githubusercontent.com/39547788/67467911-96f0f300-f684-11e9-856e-18d761333dd2.png)
 
 
 
@@ -337,19 +345,19 @@ PythonAnyWhere
 
 - ssss
 
-  ![1571897386269](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571897386269.png)
+  ![1571897386269](https://user-images.githubusercontent.com/39547788/67467912-97898980-f684-11e9-831a-675359a2bf71.png)
 
 
 
 - ksjd
 
-  ![1571897458757](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571897458757.png)
+  ![1571897458757](https://user-images.githubusercontent.com/39547788/67467913-97898980-f684-11e9-8f1f-81e92581a337.png)
 
 
 
 - skjds
 
-  ![1571897479786](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571897479786.png)
+  ![1571897479786](https://user-images.githubusercontent.com/39547788/67467918-98222000-f684-11e9-9db0-1b8b90169987.png)
 
 
 
@@ -357,21 +365,21 @@ PythonAnyWhere
 
   - decouple 설치하자
 
-    ![1571897525207](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571897525207.png)
+    ![1571897525207](https://user-images.githubusercontent.com/39547788/67467919-98222000-f684-11e9-8787-df659d6213ee.png)
 
   - Bash를 열어 설치
 
-    ![1571897597101](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571897597101.png)
+    ![1571897597101](https://user-images.githubusercontent.com/39547788/67467920-98bab680-f684-11e9-94cc-4f1d50ad7a87.png)
 
     - 설치 완료
 
-      ![1571897630166](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571897630166.png)
+      ![1571897630166](https://user-images.githubusercontent.com/39547788/67467922-98bab680-f684-11e9-9275-5560c408d682.png)
 
 - 환경 설정하기
 
   - .env 파일 생성하기
 
-    ![1571897875686](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571897875686.png)
+    ![1571897875686](https://user-images.githubusercontent.com/39547788/67467924-98bab680-f684-11e9-9879-7fd840f567e1.png)
 
   - .env 파일 작성하기
 
@@ -380,7 +388,7 @@ PythonAnyWhere
     CHAT_ID='968602197'
     ```
 
-    ![1571897825967](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571897825967.png)
+    ![1571897825967](https://user-images.githubusercontent.com/39547788/67467923-98bab680-f684-11e9-8a60-72e3d1b708b7.png)
 
 - webhook을 변경한다. 
 
@@ -390,9 +398,9 @@ PythonAnyWhere
     https://api.telegram.org/bot1056054121:AAH1U9wfbuqp-fJ6JGfEBr1vgX1qYFfpIVY/deleteWebhook
     ```
 
-    ![1571898353388](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571898353388.png)
+    ![1571898353388](https://user-images.githubusercontent.com/39547788/67467930-99ebe380-f684-11e9-94bc-86c9ec8ee10e.png)
 
-    ![1571898327031](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571898327031.png)
+    ![1571898327031](https://user-images.githubusercontent.com/39547788/67467926-99534d00-f684-11e9-914c-1700d2a21b32.png)
 
   - 새로운 webhook을 설정한다.
 
@@ -400,7 +408,7 @@ PythonAnyWhere
     https://api.telegram.org/bot1056054121:AAH1U9wfbuqp-fJ6JGfEBr1vgX1qYFfpIVY/setWebhook?url=https://sunah.pythonanywhere.com/1056054121:AAH1U9wfbuqp-fJ6JGfEBr1vgX1qYFfpIVY
     ```
 
-    ![1571898607195](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571898607195.png)
+    ![1571898607195](https://user-images.githubusercontent.com/39547788/67467933-99ebe380-f684-11e9-8796-5efe39e377b5.png)
 
 
 
@@ -408,11 +416,11 @@ PythonAnyWhere
 
   - 로또
 
-    ![1571898981555](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571898981555.png)
+    ![1571898981555](https://user-images.githubusercontent.com/39547788/67467935-99ebe380-f684-11e9-87a9-5f6edf819936.png)
 
   - 신이 나를 만들 때
 
-    ![1571900747156](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571900747156.png)
+    ![1571900747156](https://user-images.githubusercontent.com/39547788/67467937-9a847a00-f684-11e9-8d71-330e586de8a0.png)
 
 
 
