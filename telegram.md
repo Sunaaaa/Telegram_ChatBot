@@ -34,7 +34,7 @@
 
   ![1571877988105](https://user-images.githubusercontent.com/39547788/67467877-92c4d580-f684-11e9-9b4a-05eefd7dd0c8.png)
 
-<br>
+<br><br>
 
 ### getMe
 
@@ -48,7 +48,7 @@
 
     ![1571985133537](https://user-images.githubusercontent.com/39547788/67549653-b9941200-f73f-11e9-9f17-d7ea6dab7d47.png)
 
-<br>
+<br><br>
 
 ### getUpdates
 
@@ -70,7 +70,7 @@
 
 
 
-<br>
+<br><br>
 
 ### sendMessage
 
@@ -270,7 +270,7 @@
           return '', 200
       ```
 
-      
+      <br><br>
 
 ### ngrok
 
@@ -280,13 +280,15 @@
 
   ![1571884917082](https://user-images.githubusercontent.com/39547788/67467900-95bfc600-f684-11e9-92dc-5f4e81a13eeb.png)
 
+  <br>
+
 - 결과화면
 
   ![1571884894630](https://user-images.githubusercontent.com/39547788/67467901-95bfc600-f684-11e9-9af7-8792fc0efe46.png)
 
 
 
-
+<br>
 
 - 텔레그램아, 너네가 메시지를 받으면 https://e824e940.ngrok.io  여기로 보내줘로 설정
 
@@ -294,9 +296,11 @@
   [ngrok주소]/<token>
   ```
 
+<br>
 
 
-setWebhook()
+
+#### setWebhook()
 
 - 웹훅 설정 
 
@@ -308,7 +312,7 @@ setWebhook()
 
     ![1571890236378](https://user-images.githubusercontent.com/39547788/67467903-96585c80-f684-11e9-8517-1ec659ef9678.png)
 
-
+<br>
 
 #### Echo
 
@@ -360,138 +364,152 @@ setWebhook()
 
   <br>
 
+<br>
 
 
-PythonAnyWhere
+
+### PythonAnyWhere
 
 > https://www.pythonanywhere.com/
 
 - 무료로 빠르게 할 수 있다. 
 
-![1571897247462](https://user-images.githubusercontent.com/39547788/67467908-96f0f300-f684-11e9-8a99-0d4c12d643bb.png)
+- **Python을 기반으로 한 온라인 IDE 및 웹 호스팅을 통합한 서비**스이다.
+
+  ![1571897247462](https://user-images.githubusercontent.com/39547788/67467908-96f0f300-f684-11e9-8a99-0d4c12d643bb.png)
 
 <br>
 
 
 
-- ```
-  https://sunah.pythonanywhere.com/
-  ```
+1. 나의 PythonAnyWhere 서버 주소
 
-  
+   ```
+   https://sunah.pythonanywhere.com/
+   ```
 
-![1571897347563](https://user-images.githubusercontent.com/39547788/67467911-96f0f300-f684-11e9-856e-18d761333dd2.png)
+   <br>
 
+   - PythonAnyWhere 서버 주소로 실행한 화면
 
+     ![1571897347563](https://user-images.githubusercontent.com/39547788/67467911-96f0f300-f684-11e9-856e-18d761333dd2.png)
 
+<br>
 
+2. 나의 python 코드 (app.py) 저장하기 
 
+   ![1571897386269](https://user-images.githubusercontent.com/39547788/67467912-97898980-f684-11e9-831a-675359a2bf71.png)
 
-
-- ssss
-
-  ![1571897386269](https://user-images.githubusercontent.com/39547788/67467912-97898980-f684-11e9-831a-675359a2bf71.png)
-
-  <br>
-
-
-
-- ksjd
-
-  ![1571897458757](https://user-images.githubusercontent.com/39547788/67467913-97898980-f684-11e9-8f1f-81e92581a337.png)
-
-  <br>
+<br>
 
 
 
-- skjds
+3. 기존에 작성한 app.py의 코드를 flask_app.py 파일에 옮겨 적는다.
 
-  ![1571897479786](https://user-images.githubusercontent.com/39547788/67467918-98222000-f684-11e9-9db0-1b8b90169987.png)
+   ![1571897458757](https://user-images.githubusercontent.com/39547788/67467913-97898980-f684-11e9-8f1f-81e92581a337.png)
 
-  <br>
-
-
-
-- request 등의 라이브러리는 이미 설치 됨
-
-  - decouple 설치하자
-
-    ![1571897525207](https://user-images.githubusercontent.com/39547788/67467919-98222000-f684-11e9-8787-df659d6213ee.png)
-
-    <br>
-
-  - Bash를 열어 설치
-
-    ![1571897597101](https://user-images.githubusercontent.com/39547788/67467920-98bab680-f684-11e9-94cc-4f1d50ad7a87.png)
-
-    <br>
-
-    - 설치 완료
-
-      ![1571897630166](https://user-images.githubusercontent.com/39547788/67467922-98bab680-f684-11e9-9275-5560c408d682.png)
-
-      <br>
-
-- 환경 설정하기
-
-  - .env 파일 생성하기
-
-    ![1571897875686](https://user-images.githubusercontent.com/39547788/67467924-98bab680-f684-11e9-9879-7fd840f567e1.png)
-
-    <br>
-
-  - .env 파일 작성하기
-
-    ```
-    TELEGRAM_BOT_TOKEN='<token>'
-    CHAT_ID='<chat_id>'
-    ```
-
-    ![1571984764666](https://user-images.githubusercontent.com/39547788/67549655-ba2ca880-f73f-11e9-8221-33076e90c85c.png)
-
-    <br>
-
-- webhook을 변경한다. 
-
-  - 기존의 ngrok webhook을 없앤다.
-
-    ```
-    https://api.telegram.org/bot<token>/deleteWebhook
-    ```
-
-    ![1571898353388](https://user-images.githubusercontent.com/39547788/67467930-99ebe380-f684-11e9-94bc-86c9ec8ee10e.png)
-
-    ![1571898327031](https://user-images.githubusercontent.com/39547788/67467926-99534d00-f684-11e9-914c-1700d2a21b32.png)
-
-  - 새로운 webhook을 설정한다.
-
-    ```
-    https://api.telegram.org/<token>/setWebhook?url=https://sunah.pythonanywhere.com/<token>
-    ```
-
-    ![1571898607195](https://user-images.githubusercontent.com/39547788/67467933-99ebe380-f684-11e9-8796-5efe39e377b5.png)
+<br>
 
 
 
-- 실행화면
+4. Reload 버튼을 눌러 새로고침을 수행
 
-  - 로또
+   ![1571897479786](https://user-images.githubusercontent.com/39547788/67467918-98222000-f684-11e9-9db0-1b8b90169987.png)
 
-    ![1571898981555](https://user-images.githubusercontent.com/39547788/67467935-99ebe380-f684-11e9-87a9-5f6edf819936.png)
-
-    <br>
-
-  - 신이 나를 만들 때
-
-    ![1571900747156](https://user-images.githubusercontent.com/39547788/67467937-9a847a00-f684-11e9-8d71-330e586de8a0.png)
-
-    <br>
+<br>
 
 
 
+5. 필요한 라이브러리 설치하기
+
+   - request 등의 라이브러리는 이미 설치 되어있다.
+
+     - decouple 설치하자
+
+     ![1571897525207](https://user-images.githubusercontent.com/39547788/67467919-98222000-f684-11e9-8787-df659d6213ee.png)
+
+     <br>
+
+   - Bash를 열어 설치
+
+     ![1571897597101](https://user-images.githubusercontent.com/39547788/67467920-98bab680-f684-11e9-94cc-4f1d50ad7a87.png)
+
+   - decouple  설치 완료
+
+     ![1571897630166](https://user-images.githubusercontent.com/39547788/67467922-98bab680-f684-11e9-9275-5560c408d682.png)
+
+<br>
 
 
-#### 구글 클라우드 API
+
+6. .env 파일 생성
+
+   - .env 파일 생성하기
+
+     ![1571897875686](https://user-images.githubusercontent.com/39547788/67467924-98bab680-f684-11e9-9879-7fd840f567e1.png)
+
+     <br>
+
+   - .env 파일 작성하기
+
+     - token과 chat_id 값을 저장한다.
+
+       ```bash
+       TELEGRAM_BOT_TOKEN='<token>'
+       CHAT_ID='<chat_id>'
+       ```
+
+       - .env 파일
+
+         ![1571984764666](https://user-images.githubusercontent.com/39547788/67549655-ba2ca880-f73f-11e9-8221-33076e90c85c.png)
+
+<br>
+
+
+
+7. webhook 변경
+
+   - 기존의 ngrok webhook을 제거한다.
+
+     ```
+     https://api.telegram.org/bot<token>/deleteWebhook
+     ```
+
+     ![1571898353388](https://user-images.githubusercontent.com/39547788/67467930-99ebe380-f684-11e9-94bc-86c9ec8ee10e.png)
+
+     <br>
+
+     ![1571898327031](https://user-images.githubusercontent.com/39547788/67467926-99534d00-f684-11e9-914c-1700d2a21b32.png)
+
+   - 새로운 webhook 설정
+
+     ```
+     https://api.telegram.org/<token>/setWebhook?url=https://sunah.pythonanywhere.com/<token>
+     ```
+
+     ![1571898607195](https://user-images.githubusercontent.com/39547788/67467933-99ebe380-f684-11e9-8796-5efe39e377b5.png)
+
+<br>
+
+8. pythonanywhere 서버를 이용해 텔레그램 챗봇 실행 화면
+
+   - 로또
+
+     ![1571898981555](https://user-images.githubusercontent.com/39547788/67467935-99ebe380-f684-11e9-87a9-5f6edf819936.png)
+
+     <br>
+
+   - 신이 나를 만들 때
+
+     ![1571900747156](https://user-images.githubusercontent.com/39547788/67467937-9a847a00-f684-11e9-8d71-330e586de8a0.png)
+
+<br>
+
+
+
+
+
+### 구글 클라우드 API
 
 > [google cloud api](https://cloud.google.com/apis/docs/overview?hl=ko)
 
