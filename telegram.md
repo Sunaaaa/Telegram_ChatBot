@@ -18,7 +18,7 @@
 
 - 봇 이름 설정 & 인증키
 
-  ![1571985217198](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571985217198.png)
+  ![1571985217198](https://user-images.githubusercontent.com/39547788/67549654-ba2ca880-f73f-11e9-9662-c2781fae4255.png)
 
   <br>
 
@@ -46,7 +46,7 @@
 
   - 결과화면
 
-    ![1571985133537](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571985133537.png)
+    ![1571985133537](https://user-images.githubusercontent.com/39547788/67549653-b9941200-f73f-11e9-9f17-d7ea6dab7d47.png)
 
 <br>
 
@@ -66,7 +66,7 @@
 
   - 결과화면
 
-    ![1571985092748](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571985092748.png)
+    ![1571985092748](https://user-images.githubusercontent.com/39547788/67549651-b9941200-f73f-11e9-8973-bd1987b9835d.png)
 
 
 
@@ -88,7 +88,7 @@
 
   - 실행화면
 
-    ![1571984978875](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571984978875.png)
+    ![1571984978875](https://user-images.githubusercontent.com/39547788/67549650-b9941200-f73f-11e9-89b6-6a38fcde7caa.png)
 
     <br>
 
@@ -167,7 +167,7 @@
 
     - 여기에 쓰기 ( `i` )
 
-      ![1571984904819](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571984904819.png)
+      ![1571984904819](https://user-images.githubusercontent.com/39547788/67549649-b9941200-f73f-11e9-9267-6640cf5fc862.png)
 
       <br>
 
@@ -447,7 +447,7 @@ PythonAnyWhere
     CHAT_ID='<chat_id>'
     ```
 
-    ![1571984764666](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571984764666.png)
+    ![1571984764666](https://user-images.githubusercontent.com/39547788/67549655-ba2ca880-f73f-11e9-8221-33076e90c85c.png)
 
     <br>
 
