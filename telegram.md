@@ -60,7 +60,7 @@
 
   - 챗봇에게 보낸 메시지 
 
-    ![1571878391657](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571878391657.png)
+    ![1571878391657](https://user-images.githubusercontent.com/39547788/67467881-935d6c00-f684-11e9-80f1-2932ae2c1c39.png)
 
     <br>
 
@@ -119,7 +119,7 @@
 
   - (venv) 가상환경 실행화면
 
-    ![1571880906881](C:\Users\student\AppData\Roaming\Typora\typora-user-images\1571880906881.png)
+    ![1571880906881](https://user-images.githubusercontent.com/39547788/67467892-948e9900-f684-11e9-8f84-9321458b13fc.png)
 
     <br>
 
